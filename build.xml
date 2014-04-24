@@ -1,4 +1,4 @@
-<project name="space-recycler" default="jar">
+<project name="my-own-usinverse" default="jar">
 
   <property name="dir.src" value="src" />
   <property name="dir.res" value="res" />
